@@ -1,2 +1,2 @@
 #!/bin/bash
-fill up
+telnet towel.blinkenlights.nl
